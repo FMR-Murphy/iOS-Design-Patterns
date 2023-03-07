@@ -95,10 +95,7 @@
 				0D567FB729B7567200AE1116 /* SceneDelegate.m */,
 				0D567FB929B7567200AE1116 /* ViewController.h */,
 				0D567FBA29B7567200AE1116 /* ViewController.m */,
-				0D567FEC29B77AF700AE1116 /* IPhone.h */,
-				0D567FED29B77AF700AE1116 /* IPhone.m */,
-				0D567FEF29B77AFE00AE1116 /* MiPhone.h */,
-				0D567FF029B77AFE00AE1116 /* MiPhone.m */,
+				0D567FF629B78BD600AE1116 /* Phone */,
 				0D567FE029B76C8400AE1116 /* ElectricFan.h */,
 				0D567FDF29B76C8400AE1116 /* ElectricFan.m */,
 				0D567FE529B76D9C00AE1116 /* TwoGabPowerPoint.h */,
@@ -137,6 +134,17 @@
 				0D567FE929B7770900AE1116 /* FastPowerAdapter.m */,
 			);
 			path = Adapter;
+			sourceTree = "<group>";
+		};
+		0D567FF629B78BD600AE1116 /* Phone */ = {
+			isa = PBXGroup;
+			children = (
+				0D567FEC29B77AF700AE1116 /* IPhone.h */,
+				0D567FED29B77AF700AE1116 /* IPhone.m */,
+				0D567FEF29B77AFE00AE1116 /* MiPhone.h */,
+				0D567FF029B77AFE00AE1116 /* MiPhone.m */,
+			);
+			path = Phone;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
